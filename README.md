@@ -12,6 +12,16 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
+<h2><font color="cyan"> Setup </font></h2>
+<hr>
+1. Clone this repository. <br>
+2. Create a virtualenv and activate. <br>
+3. Install requirement packages. <br>
+4. Edit the executionary.py file and paste your MongoDB Database URL there as directed in the executionary.py file. <br>
+5. Start the Flask application on your original terminal window: `python flask_app.py` <br>
+6. Open Postman and send a get request.
+<br><br><br>
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.<br />
