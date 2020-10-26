@@ -20,6 +20,7 @@ You will also see any lint errors in the console.
 4. Edit the executionary.py file and paste your MongoDB Database URL there as directed in the executionary.py file. <br>
 5. Start the Flask application on your original terminal window: `python flask_app.py` <br>
 6. Open Postman and send a get request.
+<hr>
 <br><br><br>
 
 ### `npm test`
