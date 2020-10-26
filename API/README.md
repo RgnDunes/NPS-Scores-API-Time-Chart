@@ -31,7 +31,7 @@ Returns a list of NPS scores for each individual date for that date-range.
       },
 	'Response-id-2' : {
 		'Score' : 3,
-            'Date' : '2019-08-07'
+            'Date' : '2019-10-07'
 
       },
       ……. Add more data points like above …...
@@ -45,22 +45,13 @@ Returns a list of NPS scores for each individual date for that date-range.
 <hr>
 
 ```
-'Result' :  {
-	'2020-10-15' : {
-		'Promoters'  : 21,
-		'Passives' : 12,
-		'Detractors: 89
-           },
-	'2020-10-16' : {
-		'Promoters'  : 41,
-		'Passives' : 55,
-		'Detractors: 9
-           },
-	'2020-10-17' : {
-		'Promoters'  : 51,
-		'Passives' : 123,
-		'Detractors: 76
-           }
- }
+{
+	"2020-10-07":8.87,
+	"2020-10-10":6,
+	"2020-10-15":4.23,
+	"2020-10-20":0.67,
+	"2020-11-15":2.09,
+	and so on......
+}
 
 ```
